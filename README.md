@@ -11,10 +11,15 @@ Collected data from kaggle link: https://www.kaggle.com/datasets/mehmettahirasla
 Imported data into MySQL database.
 
 Utilized MySQL to query sales statistics including:
+
     1. Sales by Quarter
+
     2. % Change by Quarter
+
     3. Age Histogram 
+
     4. Payment Method Distribution
+    
     5. Sales per category per mall 
 
 Utilized Tableau to visualize statistics listed above
