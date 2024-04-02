@@ -55,6 +55,10 @@ Utilized Tableau to visualize statistics listed above
 ![finalized dashboard image](final_dashboard.png)
 
 
+## Dashboard Link:
+
+The interative dashboard can be found here: https://public.tableau.com/views/TurkishMallRetailSalesDashboard/TurkishRetailSalesAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 
 
 
