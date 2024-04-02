@@ -19,7 +19,7 @@ Utilized MySQL to query sales statistics including:
     3. Age Histogram 
 
     4. Payment Method Distribution
-    
+
     5. Sales per category per mall 
 
 Utilized Tableau to visualize statistics listed above
@@ -28,7 +28,7 @@ Utilized Tableau to visualize statistics listed above
 
 1. category_rankings_quantity: Query to find the top 5 products sold for each mall by quantity.  Store these values to a new table to store the rankings and categories for use in Tableau.
 
-2. category_rankings_price: Query to find the top 5 products sold for each mall by price.  Store these values to a new table to store the rankings and categories for use in Tableau.
+2. category_rankings_sales: Query to find the top 5 products sold for each mall by price.  Store these values to a new table to store the rankings and categories for use in Tableau.
 
 3. updating_locations: Adds the addresses and coordinates to the original database.
 
