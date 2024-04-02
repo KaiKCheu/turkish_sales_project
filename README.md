@@ -34,7 +34,7 @@ Utilized Tableau to visualize statistics listed above
 
 4. age_histogram: Query the distribution of ages across each mall.  Store these distributions in a table for Tableau.
 
-5. year_over_year: Query to find the total amounnt in change of sales year over year. Store these values in a table for use in Tableau
+5. year_over_year: Query to find the total amount in change of sales year over year. Store these values in a table for use in Tableau
 
 6. sales_per_quarter: Query to find the percent change in sales quarter to quarter.  Store these values in a table for use in Tableau
 
