@@ -50,6 +50,10 @@ Utilized Tableau to visualize statistics listed above
 
 4. Mall Demographics: Mall's demographic breakdown
 
+## Final Dashboard
+
+![finalized dashboard image](final_dashboard.png)
+
 
 
 
