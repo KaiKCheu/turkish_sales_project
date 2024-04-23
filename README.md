@@ -40,6 +40,8 @@ Utilized Tableau to visualize statistics listed above
 
 7. types_of_transactions: Query to find the distribution of payment types (i.e. Cash, Credit, Debit) for each mall. Store values into table for use in Tableau
 
+8. most_popular_day: Query to find the historical sales for each day of the week for each mall.  Values are displayed in tableau graphic.
+
 ## Tableau Sheet Breakdown
 
 1. Sales By Category: Bar graph depicting distribution of sales by category.
